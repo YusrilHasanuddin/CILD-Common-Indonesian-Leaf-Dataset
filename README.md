@@ -16,4 +16,5 @@ Contributions from the Common Indonesian Leaf Dataset can be used to develop pla
 
 
 References
+
 [1]	E. Beech, M. Rivers, S. Oldfield, and P. P. Smith, “GlobalTreeSearch: The first complete global database of tree species and country distributions,” J. Sustain. For., vol. 36, no. 5, pp. 454–489, 2017.
